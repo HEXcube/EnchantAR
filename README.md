@@ -3,9 +3,11 @@ _Enchant images to life! :sparkles:_
 
 HOWTO
 -----
- - Open this image on any screen: Image
- - Open this app on your phone and scan screen where the image is open: Webapp
+ - Open this image on any screen: [Image](https://github.com/HEXcube/EnchantAR/raw/master/assets/trackers/phoenix-of-autumn.jpg)
+ - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://hexcube.github.io/EnchantAR/)
  - Watch the enchantment! :sparkles:
+
+ ![Phoenix Bird](https://github.com/HEXcube/EnchantAR/raw/master/assets/trackers/phoenix-of-autumn.jpg)
 
 CREDITS
 -------
