@@ -1,2 +1,22 @@
 # EnchantAR
-Enchant images to life! ✨
+_Enchant images to life! :sparkles:_
+
+HOWTO
+-----
+ - Open this image on any screen: Image
+ - Open this app on your phone and scan screen where the image is open: Webapp
+ - Watch the enchantment! :sparkles:
+
+CREDITS
+-------
+- Derived from [AR.js's NFT example](https://github.com/AR-js-org/AR.js/blob/3.2.1/three.js/examples/nft.html)
+- Developed using [AR.js](https://github.com/AR-js-org/AR.js) and [three.js](https://threejs.org)
+- Animated 3D model from [Phoenix bird by Norberto Aguilera](https://sketchfab.com/3d-models/phoenix-bird-844ba0cf144a413ea92c779f18912042)
+- Image marker derived from [Phoenix of Autumn by AlviaAlcedo](https://deviantart.com/alviaalcedo/art/Phoenix-of-autumn-702563565)
+- GLTF to GLB conversion with [GLB Packer](https://glb-packer.glitch.me)
+- Image to nft marker conversion using [NFT Marker Creator](https://carnaux.github.io/NFT-Marker-Creator/)
+
+LICENSE
+-------
+Except where otherwise noted, all original content here are released under [MIT license](https://opensource.org/licenses/MIT). However, part of the work here are derived from other open source projects and as a result
+follow the licenses of their original sources.
