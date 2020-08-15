@@ -7,7 +7,7 @@ HOWTO
  - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://hexcube.github.io/EnchantAR/)
  - Watch the enchantment! :sparkles:
 
- ![Phoenix Bird](https://github.com/HEXcube/EnchantAR/raw/master/assets/trackers/phoenix-of-autumn.jpg)
+ ![Phoenix of Autumn](https://github.com/HEXcube/EnchantAR/raw/master/assets/trackers/phoenix-of-autumn.jpg)
 
 CREDITS
 -------
