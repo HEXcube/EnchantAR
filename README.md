@@ -3,11 +3,11 @@ _Enchant images to life! :sparkles:_
 
 HOWTO
 -----
- - Open this image on any screen: [Image](https://github.com/RohanVilloth/EnchantAR/raw/master/assets/markers/phoenix-of-autumn.jpg)
+ - Open this image on any screen: [Image](https://github.com/RohanVilloth/EnchantAR/raw/main/assets/markers/phoenix-of-autumn.jpg)
  - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://RohanVilloth.github.io/EnchantAR/)
  - Watch the enchantment! :sparkles:
 
- ![Phoenix of Autumn](https://github.com/RohanVilloth/EnchantAR/raw/master/assets/markers/phoenix-of-autumn.jpg)
+ ![Phoenix of Autumn](https://github.com/RohanVilloth/EnchantAR/raw/main/assets/markers/phoenix-of-autumn.jpg)
 
 DEMO
 ----
