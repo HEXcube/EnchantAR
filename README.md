@@ -4,14 +4,14 @@ _Enchant images to life! :sparkles:_
 HOWTO
 -----
  - Open this image on any screen: [Image](https://github.com/RohanVilloth/EnchantAR/raw/main/assets/markers/phoenix-of-autumn.jpg)
- - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://RohanVilloth.github.io/EnchantAR/)
+ - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://RohanVilloth.com/EnchantAR/)
  - Watch the enchantment! :sparkles:
 
  ![Phoenix of Autumn](https://github.com/RohanVilloth/EnchantAR/raw/main/assets/markers/phoenix-of-autumn.jpg)
 
 DEMO
 ----
-This is a demo video showing [ReactAR](https://RohanVilloth.github.io/ReactAR/), the React port of EnchantAR:
+This is a demo video showing [ReactAR](https://RohanVilloth.com/ReactAR/), the React port of EnchantAR:
 
 https://user-images.githubusercontent.com/3755396/126223544-20d06e0d-e4e6-4c98-9348-39b00ae1cec2.mp4
 
